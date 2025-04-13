@@ -26,6 +26,12 @@ To run the Tic Tac Toe game locally:
 
 Make sure the CSS and JS files (`styles.css`, `script.js`, `tic-tac-toe.js`) are in the same directory or update the paths accordingly.
 
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/Sanju-1114/tic-tac-toe.git
+
+```
 
 ## 📦 Dependencies
 
