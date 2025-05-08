@@ -41,3 +41,10 @@ git clone https://github.com/Sanju-1114/tic-tac-toe.git
 ## 📧 Contact
 
 For issues or suggestions, contact: [support@gamehub.com](mailto:support@gamehub.com)
+
+## What you can edit
+
+- You can change the logo.
+- Update the CSS or add in CSS to make it more attractive.
+- You can check it if you are working on this type of project.
+- You can change UI.
