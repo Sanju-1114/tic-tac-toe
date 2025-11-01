@@ -1,8 +1,10 @@
-# 🎮 GameHub - Tic Tac Toe
+#  GameHub - Tic Tac Toe
 
 Welcome to **GameHub's** Tic Tac Toe game! This is a simple web-based version of the classic game, built using HTML, CSS, and JavaScript. It's part of a broader project that includes multiple mini-games.
 
-## 🧩 Features
+---
+
+##  Features
 
 - Interactive 3x3 grid for gameplay  
 - Reset and New Game options  
@@ -10,13 +12,22 @@ Welcome to **GameHub's** Tic Tac Toe game! This is a simple web-based version of
 - Responsive design using Bootstrap  
 - Easy navigation to other games via card-based UI  
 
-## 🗂️ Project Structure
+---
 
-GameHub/ ├── script.js # Handles game selection and redirects ├── styles.css # Shared styles across games ├── tic-tac-toe.html # HTML structure for Tic Tac Toe ├── tic-tac-toe.css # Game-specific styles (not included in upload) ├── tic-tac-toe.js # Game logic (assumed to be included) └── assets/ (e.g., logo.png)
+##  Project Structure
 
+```
+GameHub/ 
+├── script.js # Handles game selection and redirects ├── styles.css # Shared styles across games 
+├── tic-tac-toe.html # HTML structure for Tic Tac Toe 
+├── tic-tac-toe.css # Game-specific styles (not included in upload) 
+├── tic-tac-toe.js # Game logic (assumed to be included) └── assets/ (e.g., logo.png)
 
+```
 
-## 🚀 Getting Started
+---
+
+##  Getting Started
 
 To run the Tic Tac Toe game locally:
 
@@ -26,21 +37,27 @@ To run the Tic Tac Toe game locally:
 
 Make sure the CSS and JS files (`styles.css`, `script.js`, `tic-tac-toe.js`) are in the same directory or update the paths accordingly.
 
-### 📦 Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/Sanju-1114/tic-tac-toe.git
 
 ```
 
-## 📦 Dependencies
+---
+
+##  Dependencies
 
 - [Bootstrap 5](https://getbootstrap.com/)  
 - [Font Awesome 6](https://fontawesome.com/)
 
-## 📧 Contact
+---
 
-For issues or suggestions, contact: [support@gamehub.com](mailto:support@gamehub.com)
+##  Contact
+
+For issues or suggestions, contact: [support@gamehub.com](mailto:support@gamehub.com) This is not real email ID
+
+---
 
 ## What you can edit
 
