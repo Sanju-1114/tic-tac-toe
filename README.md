@@ -19,7 +19,6 @@ Welcome to **GameHub's** Tic Tac Toe game! This is a simple web-based version of
 ```
 GameHub/ 
 ├── script.js # Handles game selection and redirects 
-
 ├── styles.css # Shared styles across games 
 ├── tic-tac-toe.html # HTML structure for Tic Tac Toe 
 ├── tic-tac-toe.css # Game-specific styles (not included in upload) 
