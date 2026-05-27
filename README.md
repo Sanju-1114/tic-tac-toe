@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❌⭕ Tic Tac Toe
+# Tic Tac Toe ❌⭕ 
 
 **A classic strategy game reimagined for the web.**
 <br>
